@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/14655079/git-push-permission-denied
 
 set different url:
 https://help.github.com/articles/changing-a-remote-s-url/
+
+formatting text on github:
+https://help.github.com/articles/about-writing-and-formatting-on-github/
